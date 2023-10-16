@@ -1,0 +1,6 @@
+/home/alerodca/Projects/MyApplication3/MyApplication3/bin/Debug/MyApplication3.exe
+/home/alerodca/Projects/MyApplication3/MyApplication3/bin/Debug/MyApplication3.pdb
+/home/alerodca/Projects/MyApplication3/MyApplication3/obj/x86/Debug/MyApplication3.csproj.AssemblyReference.cache
+/home/alerodca/Projects/MyApplication3/MyApplication3/obj/x86/Debug/MyApplication3.csproj.CoreCompileInputs.cache
+/home/alerodca/Projects/MyApplication3/MyApplication3/obj/x86/Debug/MyApplication3.exe
+/home/alerodca/Projects/MyApplication3/MyApplication3/obj/x86/Debug/MyApplication3.pdb
